@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "LiT! Kansai MembersのGitHub",
   description: "LiT!関西メンバー達のGitHub Organizationやで！",
   twitter: {
-    card: "summary_image",
+    card: "summary",
     site: "@LiTKansaiMember",
     creator: "@LiTKansaiMember",
   },
